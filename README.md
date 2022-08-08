@@ -6,7 +6,7 @@ José Ribeiro - site: https://sites.google.com/view/jose-sousa-ribeiro
 
 Níkolas Carneiro - site: https://br.linkedin.com/in/nikolas-carneiro-62b6568
 
-Ronnie Alves (Leader) - site: https://sites.google.com/site/alvesrco/
+Ronnie Alves (Leader) - site: https://sites.google.com/site/alvesrco
 
 This repository was created to contain all additional information from the article "Black Box Model Explanations and the Human Interpretability Expectations - An Analysis in the Context of Homicide Prediction", for reproducibility purposes.
 
