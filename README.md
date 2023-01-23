@@ -28,6 +28,8 @@ To run the notebook **XAI_Pred2Town.ipynb**, it is suggested to use Google Colab
 
 Note that to run **XAI_Pred2Town.ipynb** it will be necessary to use the file **'Pred2Town_Pre-processed_by_Orange_binary_class_with_metadata_clean.csv'** in the 'data loading' session.
 
+If you prefer, you can access the ConeXi library from the link: https://github.com/josesousaribeiro/ConeXi.
+
 # Expert consultation:
 Applied research link with a specialist in the area of criminal data:
 
