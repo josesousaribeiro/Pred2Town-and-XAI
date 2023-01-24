@@ -32,11 +32,11 @@ All data regarding the reproducibility of this work can be found in this reposit
 
 **XAI_Pred2Town.ipynb:** is all the source code used to execute the experiments presented in this research. It should be noted that this notebook is properly commented, documented and separated into sections for better understanding in case of an execution.
 
-**Note 1:** To run the notebook **XAI_Pred2Town.ipynb**, it is suggested to use Google Colab, for a better and faster execution of the tool.
+**Note 1:** To run the notebook *XAI_Pred2Town.ipynb*, it is suggested to use Google Colab, for a better and faster execution of the tool.
 
-**Note 2:** To run **XAI_Pred2Town.ipynb** it will be necessary to use the file **'Pred2Town_Pre-processed_by_Orange_binary_class_with_metadata_clean.csv'** in the 'data loading' session.
+**Note 2:** To run *XAI_Pred2Town.ipynb* it will be necessary to use the file *'Pred2Town_Pre-processed_by_Orange_binary_class_with_metadata_clean.csv'* in the 'data loading' session.
 
-**Note 3:** If you prefer, you can access the **ConeXi** library from the link: https://github.com/josesousaribeiro/ConeXi.
+**Note 3:** If you prefer, you can access the *ConeXi* library from the link: https://github.com/josesousaribeiro/ConeXi.
 
 # Expert consultation:
 
