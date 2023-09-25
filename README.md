@@ -42,7 +42,7 @@ All data regarding the reproducibility of this work can be found in this reposit
 
 Applied research link with a specialist in the area of criminal data:
 
-https://sites.google.com/view/pred2town/in%C3%ADcio
+https://sites.google.com/view/survey-peridico-pred2town/in%C3%ADcio
 
 
 
