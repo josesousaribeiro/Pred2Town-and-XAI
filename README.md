@@ -45,13 +45,17 @@ Applied research link with a specialist in the area of criminal data:
 https://sites.google.com/view/survey-peridico-pred2town/in%C3%ADcio
 
 # Cite this work:
-´´´´latex
+
+```latex
+
 @article{ribeiro2022black,
   title={Black Box Model Explanations and the Human Interpretability Expectations--An Analysis in the Context of Homicide Prediction},
   author={Ribeiro, Jos{\'e} and Carneiro, N{\'\i}kolas and Alves, Ronnie},
   journal={arXiv preprint arXiv:2210.10849},
   year={2022}
 }
-´´´´
+
+```
+
 
 
